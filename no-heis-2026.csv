@@ -1,0 +1,49 @@
+ID,Name,Category,Institution_Category_Standardized,Member_of_European_University_alliance,url,NUTS2,NUTS2_Label,NUTS3,NUTS3_Label
+NO-HEI-001,University of Agder (UiA),Public,University,Member of a European Universities Initiative alliance,www.uia.no,NO09,Agder og Sør-Østlandet,NO092,Agder
+NO-HEI-002,University of Bergen (UiB),Public,University,Member of a European Universities Initiative alliance,www.uib.no,NO0A,Vestlandet,NO0A2,Vestland
+NO-HEI-003,University of Inland Norway (INN University),Public,University,Not found in European Commission sources,www.inn.no,NO02,Innlandet,NO020,Innlandet
+NO-HEI-004,University of Oslo (UiO),Public,University,Member of a European Universities Initiative alliance,www.uio.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-005,University of South-Eastern Norway (USN),Public,University,Not found in European Commission sources,www.usn.no,NO08,Oslo og Viken,NO085,Buskerud
+NO-HEI-006,University of Stavanger (UiS),Public,University,Member of a European Universities Initiative alliance,www.uis.no,NO0A,Vestlandet,NO0A1,Rogaland
+NO-HEI-007,The Arctic University of Norway (UiT),Public,University,Not found in European Commission sources,en.uit.no,NO07,Nord-Norge,NO072,Troms/Romsa/Tromssa
+NO-HEI-008,Norwegian University of Science and Technology (NTNU),Public,University,Member of a European Universities Initiative alliance,www.ntnu.edu,NO06,Trøndelag,NO060,Trøndelag/Trööndelage
+NO-HEI-009,Norwegian University of Life Sciences (NMBU),Public,University,Not found in European Commission sources,www.nmbu.no,NO08,Oslo og Viken,NO084,Akershus
+NO-HEI-010,Oslo Metropolitan University (OsloMet),Public,University,Not found in European Commission sources,www.oslomet.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-011,Nord University,Public,University,Member of a European Universities Initiative alliance,www.nord.no,NO07,Nord-Norge,NO071,Nordland/Nordlánnda
+NO-HEI-012,BI Norwegian Business School,Private,Specialised University,Not found in European Commission sources,www.bi.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-013,Norwegian School of Economics (NHH),Public,Specialised University,Member of a European Universities Initiative alliance,www.nhh.no,NO0A,Vestlandet,NO0A2,Vestland
+NO-HEI-014,Norwegian School of Sport Sciences (NIH),Public,Specialised University,Not found in European Commission sources,www.nih.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-015,Norwegian Academy of Music (NMH),Public,Specialised University,Not found in European Commission sources,www.nmh.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-016,Oslo National Academy of the Arts (KHIO),Public,Specialised University,Not found in European Commission sources,khio.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-017,"Norwegian School of Theology, Religion and Society (MF)",Private,Specialised University,Not found in European Commission sources,mf.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-018,Molde University College – Specialized University in Logistics,Public,Specialised University,Not found in European Commission sources,www.himolde.no,NO0A,Vestlandet,NO0A3,Møre og Romsdal
+NO-HEI-019,The Oslo School of Architecture and Design (AHO),Public,Specialised University,Not found in European Commission sources,www.aho.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-020,Specialized University (VID),Private,Specialised University,Not found in European Commission sources,www.vid.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-021,Ansgar University College,Private,University College/University of Applied Sciences,Not found in European Commission sources,ansgarhoyskole.no,NO09,Agder og Sør-Østlandet,NO092,Agder
+NO-HEI-022,Bergen School of Architecture,Private,University College/University of Applied Sciences,Not found in European Commission sources,bas.org,NO0A,Vestlandet,NO0A2,Vestland
+NO-HEI-023,Fjellhaug International University College,Private,University College/University of Applied Sciences,Not found in European Commission sources,fih.fjellhaug.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-024,Kristiania University College,Private,University College/University of Applied Sciences,Not found in European Commission sources,www.kristiania.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-025,Lovisenberg Diaconal University College,Private,University College/University of Applied Sciences,Not found in European Commission sources,ldh.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-026,NLA University College,Private,University College/University of Applied Sciences,Not found in European Commission sources,www.nla.no,NO0A,Vestlandet,NO0A2,Vestland
+NO-HEI-027,The Norwegian Defence University College (NDUC),Public,University College/University of Applied Sciences,Not found in European Commission sources,www.forsvaret.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-028,Norwegian Police University College (PHS),Public,University College/University of Applied Sciences,Not found in European Commission sources,www.politihogskolen.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-029,The Norwegian School of Leadership and Theology (HLT),Private,University College/University of Applied Sciences,Not found in European Commission sources,hlt.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-030,Queen Maud University College of Early Childhood Education (QMUC),Private,University College/University of Applied Sciences,Not found in European Commission sources,www.dmmh.no,NO06,Trøndelag,NO060,Trøndelag/Trööndelage
+NO-HEI-031,Sámi University College,Private,University College/University of Applied Sciences,Not found in European Commission sources,samas.no,NO07,Nord-Norge,NO073,Finnmark/Finnmárku/Finmarkku
+NO-HEI-032,Volda University College,Public,University College/University of Applied Sciences,Not found in European Commission sources,www.hivolda.no,NO0A,Vestlandet,NO0A3,Møre og Romsdal
+NO-HEI-033,Western Norway University of Applied Sciences,Public,University College/University of Applied Sciences,Not found in European Commission sources,www.hvl.no,NO0A,Vestlandet,NO0A2,Vestland
+NO-HEI-034,Østfold University College,Public,University College/University of Applied Sciences,Not found in European Commission sources,www.hiof.no,NO08,Oslo og Viken,NO083,Østfold
+NO-HEI-035,Barratt Due Institute of Music,Private,University College with accredited study programmes,Not found in European Commission sources,www.barrattdue.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-036,University College of Norwegian Correctional Service (KRUS),Private,University College with accredited study programmes,Not found in European Commission sources,www.krus.no,NO08,Oslo og Viken,NO084,Akershus
+NO-HEI-037,University College of Vocational Education (HFY),Private,University College with accredited study programmes,Not found in European Commission sources,hfy.no,NO02,Innlandet,NO020,Innlandet
+NO-HEI-038,Lillehammer Institute of Music Production and Industries (LIMPI),Private,University College with accredited study programmes,Not found in European Commission sources,limpimusic.com,NO02,Innlandet,NO020,Innlandet
+NO-HEI-039,Norges Høyskole for Helsefag,Private,University College with accredited study programmes,Not found in European Commission sources,nhfh.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-040,Noroff,Private,University College with accredited study programmes,Not found in European Commission sources,www.noroff.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-041,The Norwegian Gestalt Institute,Private,University College with accredited study programmes,Not found in European Commission sources,gestalt.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-042,NSKI University College,Private,University College with accredited study programmes,Not found in European Commission sources,www.nski.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-043,Oslo New University College,Private,University College with accredited study programmes,Not found in European Commission sources,oslonyehoyskole.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-044,Rudolf Steiner University College,Private,University College with accredited study programmes,Not found in European Commission sources,www.steinerhoyskolen.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-045,Skrivekunstakademiet,Private,University College with accredited study programmes,Not found in European Commission sources,www.skrivekunst.no,NO0A,Vestlandet,NO0A2,Vestland
+NO-HEI-046,The Norwegian Institute of Children's Books,Private,University College with accredited study programmes,Not found in European Commission sources,barnebokinstituttet.no,NO08,Oslo og Viken,NO081,Oslo
+NO-HEI-047,Høgskulen for grøn utvikling,Private,University College with accredited study programmes,Not found in European Commission sources,hgut.no,NO0A,Vestlandet,NO0A1,Rogaland
+NO-HEI-048,University College of Dance Art,Private,University College with accredited study programmes,Not found in European Commission sources,www.hfdk.no,NO08,Oslo og Viken,NO081,Oslo
